@@ -1,0 +1,4 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  padding-top: 69px; /* 상단고정시 본문과의 간격 조절 */
+}
